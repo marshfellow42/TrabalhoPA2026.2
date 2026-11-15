@@ -1,0 +1,23 @@
++
+Bônus de Pontos: o jogador ganha entre 10 e 30 pontos (sorteado).
+pontos
+
+-
+Penalidade de Pontos: o jogador perde entre 10 e 25 pontos.
+pontos
+
+H
+Cura: o jogador recupera entre 10 e 20 pontos de vida.
+vida
+
+X
+Armadilha: o jogador perde entre 15 e 30 pontos de vida.
+dano
+
+T
+Teleporte: o jogador é movido aleatoriamente para outra casa do tabuleiro.
+movimento
+
+B
+Bloqueio: o jogador perde a próxima rodada.
+rodada

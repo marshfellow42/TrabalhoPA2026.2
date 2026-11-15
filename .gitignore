@@ -1,0 +1,93 @@
+# Object files
+*.o
+*.obj
+*.ko
+*.elf
+*.lo
+*.slo
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Libraries
+*.a
+*.lib
+*.la
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Build directories
+build/
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# Dependency files
+*.d
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+core
+core.*
+vgcore.*
+
+# Profiling / coverage
+*.gcno
+*.gcda
+*.gcov
+gmon.out
+callgrind.out.*
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+compile_commands.json
+install_manifest.txt
+
+# Autotools
+Makefile.in
+aclocal.m4
+autom4te.cache/
+config.log
+config.status
+configure
+libtool
+stamp-h1
+.deps/
+.libs/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cache/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / logs
+.env
+*.log
